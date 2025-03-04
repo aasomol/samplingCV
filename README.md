@@ -1,6 +1,6 @@
 # A Sampling Approach to Planning with Infinite Domain Control Variables
 
-This is the supplementary material for the paper "A Sampling Approach to Planning with Infinite Domain Control Variables", presented at ICAPS 2025. In this file system we have several folders:
+This is the supplementary material for the paper "A Sampling Approach to Planning with Infinite Domain Control Variables", accepted at ICAPS 2025. In this file system we have several folders:
 
 - DOMAINS: The specification for each domain. 
 
