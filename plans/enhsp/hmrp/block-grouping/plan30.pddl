@@ -1,0 +1,745 @@
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 13
+Aibr Preprocessing
+|F|:0
+|X|:60
+|A|:120
+|P|:0
+|E|:0
+H1 Setup Time (msec): 10
+Setting horizon to:NaN
+Running Greedy Best First Search
+h(n = s_0)=638.0
+ g(n)= 1.0 h(n)=631.0
+ g(n)= 2.0 h(n)=624.0
+ g(n)= 3.0 h(n)=617.0
+ g(n)= 4.0 h(n)=610.0
+ g(n)= 5.0 h(n)=603.0
+ g(n)= 6.0 h(n)=596.0
+ g(n)= 7.0 h(n)=589.0
+ g(n)= 8.0 h(n)=582.0
+ g(n)= 9.0 h(n)=575.0
+ g(n)= 10.0 h(n)=570.0
+ g(n)= 11.0 h(n)=565.0
+ g(n)= 12.0 h(n)=560.0
+ g(n)= 13.0 h(n)=555.0
+ g(n)= 14.0 h(n)=550.0
+ g(n)= 15.0 h(n)=545.0
+ g(n)= 16.0 h(n)=540.0
+ g(n)= 17.0 h(n)=535.0
+ g(n)= 18.0 h(n)=530.0
+ g(n)= 19.0 h(n)=525.0
+ g(n)= 20.0 h(n)=520.0
+ g(n)= 21.0 h(n)=515.0
+ g(n)= 22.0 h(n)=510.0
+ g(n)= 23.0 h(n)=505.0
+ g(n)= 24.0 h(n)=500.0
+ g(n)= 25.0 h(n)=495.0
+ g(n)= 26.0 h(n)=490.0
+ g(n)= 27.0 h(n)=485.0
+ g(n)= 28.0 h(n)=480.0
+ g(n)= 29.0 h(n)=475.0
+ g(n)= 30.0 h(n)=470.0
+ g(n)= 31.0 h(n)=465.0
+ g(n)= 32.0 h(n)=460.0
+ g(n)= 33.0 h(n)=456.0
+ g(n)= 34.0 h(n)=452.0
+ g(n)= 35.0 h(n)=448.0
+ g(n)= 36.0 h(n)=444.0
+ g(n)= 37.0 h(n)=440.0
+ g(n)= 38.0 h(n)=436.0
+ g(n)= 39.0 h(n)=432.0
+ g(n)= 40.0 h(n)=428.0
+ g(n)= 41.0 h(n)=424.0
+ g(n)= 42.0 h(n)=421.0
+ g(n)= 43.0 h(n)=415.0
+ g(n)= 44.0 h(n)=412.0
+ g(n)= 45.0 h(n)=406.0
+ g(n)= 46.0 h(n)=403.0
+ g(n)= 47.0 h(n)=400.0
+ g(n)= 48.0 h(n)=397.0
+ g(n)= 49.0 h(n)=394.0
+ g(n)= 50.0 h(n)=391.0
+ g(n)= 51.0 h(n)=388.0
+ g(n)= 52.0 h(n)=386.0
+ g(n)= 53.0 h(n)=384.0
+ g(n)= 54.0 h(n)=382.0
+ g(n)= 55.0 h(n)=380.0
+ g(n)= 56.0 h(n)=378.0
+ g(n)= 57.0 h(n)=376.0
+ g(n)= 58.0 h(n)=374.0
+ g(n)= 59.0 h(n)=372.0
+ g(n)= 60.0 h(n)=368.0
+ g(n)= 61.0 h(n)=366.0
+ g(n)= 62.0 h(n)=364.0
+ g(n)= 63.0 h(n)=362.0
+ g(n)= 64.0 h(n)=360.0
+ g(n)= 65.0 h(n)=358.0
+ g(n)= 66.0 h(n)=356.0
+ g(n)= 67.0 h(n)=354.0
+ g(n)= 68.0 h(n)=352.0
+ g(n)= 69.0 h(n)=350.0
+ g(n)= 70.0 h(n)=348.0
+ g(n)= 71.0 h(n)=346.0
+ g(n)= 72.0 h(n)=341.0
+ g(n)= 73.0 h(n)=339.0
+ g(n)= 74.0 h(n)=337.0
+ g(n)= 75.0 h(n)=334.0
+ g(n)= 76.0 h(n)=332.0
+ g(n)= 77.0 h(n)=330.0
+ g(n)= 78.0 h(n)=327.0
+ g(n)= 79.0 h(n)=325.0
+ g(n)= 80.0 h(n)=323.0
+ g(n)= 81.0 h(n)=320.0
+ g(n)= 82.0 h(n)=318.0
+ g(n)= 83.0 h(n)=316.0
+ g(n)= 84.0 h(n)=314.0
+ g(n)= 85.0 h(n)=312.0
+ g(n)= 86.0 h(n)=310.0
+ g(n)= 87.0 h(n)=308.0
+ g(n)= 88.0 h(n)=306.0
+ g(n)= 89.0 h(n)=304.0
+ g(n)= 90.0 h(n)=302.0
+ g(n)= 91.0 h(n)=300.0
+ g(n)= 92.0 h(n)=298.0
+ g(n)= 93.0 h(n)=296.0
+ g(n)= 94.0 h(n)=294.0
+ g(n)= 95.0 h(n)=292.0
+ g(n)= 96.0 h(n)=290.0
+ g(n)= 97.0 h(n)=289.0
+ g(n)= 98.0 h(n)=288.0
+ g(n)= 99.0 h(n)=287.0
+ g(n)= 100.0 h(n)=286.0
+ g(n)= 101.0 h(n)=285.0
+ g(n)= 102.0 h(n)=284.0
+ g(n)= 103.0 h(n)=283.0
+ g(n)= 104.0 h(n)=282.0
+ g(n)= 105.0 h(n)=281.0
+ g(n)= 106.0 h(n)=280.0
+ g(n)= 107.0 h(n)=279.0
+ g(n)= 108.0 h(n)=278.0
+ g(n)= 109.0 h(n)=277.0
+ g(n)= 110.0 h(n)=276.0
+ g(n)= 111.0 h(n)=275.0
+ g(n)= 112.0 h(n)=274.0
+ g(n)= 113.0 h(n)=273.0
+ g(n)= 114.0 h(n)=272.0
+ g(n)= 115.0 h(n)=271.0
+ g(n)= 116.0 h(n)=270.0
+ g(n)= 117.0 h(n)=269.0
+ g(n)= 118.0 h(n)=268.0
+ g(n)= 119.0 h(n)=267.0
+ g(n)= 120.0 h(n)=266.0
+ g(n)= 121.0 h(n)=265.0
+ g(n)= 122.0 h(n)=264.0
+ g(n)= 123.0 h(n)=263.0
+ g(n)= 124.0 h(n)=262.0
+ g(n)= 125.0 h(n)=261.0
+ g(n)= 126.0 h(n)=260.0
+ g(n)= 127.0 h(n)=259.0
+ g(n)= 128.0 h(n)=258.0
+ g(n)= 129.0 h(n)=257.0
+ g(n)= 130.0 h(n)=256.0
+ g(n)= 131.0 h(n)=255.0
+ g(n)= 132.0 h(n)=254.0
+ g(n)= 133.0 h(n)=253.0
+ g(n)= 134.0 h(n)=252.0
+ g(n)= 135.0 h(n)=251.0
+ g(n)= 136.0 h(n)=250.0
+ g(n)= 137.0 h(n)=249.0
+ g(n)= 138.0 h(n)=248.0
+ g(n)= 139.0 h(n)=247.0
+ g(n)= 140.0 h(n)=246.0
+ g(n)= 141.0 h(n)=245.0
+ g(n)= 142.0 h(n)=244.0
+ g(n)= 143.0 h(n)=243.0
+ g(n)= 144.0 h(n)=242.0
+ g(n)= 145.0 h(n)=241.0
+ g(n)= 146.0 h(n)=240.0
+ g(n)= 147.0 h(n)=239.0
+ g(n)= 148.0 h(n)=238.0
+ g(n)= 149.0 h(n)=237.0
+ g(n)= 150.0 h(n)=236.0
+ g(n)= 151.0 h(n)=235.0
+-------------Time: 10s ; Expanded Nodes: 152 (Avg-Speed 15.0 n/s); Evaluated States: 17643
+ g(n)= 152.0 h(n)=234.0
+ g(n)= 153.0 h(n)=233.0
+ g(n)= 154.0 h(n)=232.0
+ g(n)= 155.0 h(n)=231.0
+ g(n)= 156.0 h(n)=230.0
+ g(n)= 157.0 h(n)=229.0
+ g(n)= 158.0 h(n)=228.0
+ g(n)= 159.0 h(n)=227.0
+ g(n)= 160.0 h(n)=226.0
+ g(n)= 161.0 h(n)=225.0
+ g(n)= 162.0 h(n)=224.0
+ g(n)= 163.0 h(n)=223.0
+ g(n)= 164.0 h(n)=222.0
+ g(n)= 165.0 h(n)=221.0
+ g(n)= 166.0 h(n)=220.0
+ g(n)= 167.0 h(n)=219.0
+ g(n)= 168.0 h(n)=218.0
+ g(n)= 169.0 h(n)=217.0
+ g(n)= 170.0 h(n)=216.0
+ g(n)= 171.0 h(n)=215.0
+ g(n)= 172.0 h(n)=214.0
+ g(n)= 173.0 h(n)=213.0
+ g(n)= 174.0 h(n)=212.0
+ g(n)= 175.0 h(n)=211.0
+ g(n)= 176.0 h(n)=210.0
+ g(n)= 177.0 h(n)=209.0
+ g(n)= 178.0 h(n)=208.0
+ g(n)= 179.0 h(n)=207.0
+ g(n)= 180.0 h(n)=206.0
+ g(n)= 181.0 h(n)=205.0
+ g(n)= 182.0 h(n)=204.0
+ g(n)= 183.0 h(n)=203.0
+ g(n)= 184.0 h(n)=202.0
+ g(n)= 185.0 h(n)=201.0
+ g(n)= 186.0 h(n)=200.0
+ g(n)= 187.0 h(n)=199.0
+ g(n)= 188.0 h(n)=198.0
+ g(n)= 189.0 h(n)=197.0
+ g(n)= 190.0 h(n)=196.0
+ g(n)= 191.0 h(n)=195.0
+ g(n)= 192.0 h(n)=194.0
+ g(n)= 193.0 h(n)=193.0
+ g(n)= 194.0 h(n)=192.0
+ g(n)= 195.0 h(n)=191.0
+ g(n)= 196.0 h(n)=190.0
+ g(n)= 197.0 h(n)=189.0
+ g(n)= 198.0 h(n)=188.0
+ g(n)= 199.0 h(n)=187.0
+ g(n)= 200.0 h(n)=186.0
+ g(n)= 201.0 h(n)=185.0
+ g(n)= 202.0 h(n)=184.0
+ g(n)= 203.0 h(n)=183.0
+ g(n)= 204.0 h(n)=182.0
+ g(n)= 205.0 h(n)=181.0
+ g(n)= 206.0 h(n)=180.0
+ g(n)= 207.0 h(n)=179.0
+ g(n)= 208.0 h(n)=178.0
+ g(n)= 209.0 h(n)=177.0
+ g(n)= 210.0 h(n)=176.0
+ g(n)= 211.0 h(n)=175.0
+ g(n)= 212.0 h(n)=174.0
+ g(n)= 213.0 h(n)=173.0
+ g(n)= 214.0 h(n)=172.0
+ g(n)= 215.0 h(n)=171.0
+ g(n)= 216.0 h(n)=170.0
+ g(n)= 217.0 h(n)=169.0
+ g(n)= 218.0 h(n)=168.0
+ g(n)= 219.0 h(n)=167.0
+ g(n)= 220.0 h(n)=166.0
+ g(n)= 221.0 h(n)=165.0
+ g(n)= 222.0 h(n)=164.0
+ g(n)= 223.0 h(n)=163.0
+ g(n)= 224.0 h(n)=162.0
+ g(n)= 225.0 h(n)=161.0
+ g(n)= 226.0 h(n)=160.0
+ g(n)= 227.0 h(n)=159.0
+ g(n)= 228.0 h(n)=158.0
+ g(n)= 229.0 h(n)=157.0
+ g(n)= 230.0 h(n)=156.0
+ g(n)= 231.0 h(n)=155.0
+ g(n)= 232.0 h(n)=154.0
+ g(n)= 233.0 h(n)=153.0
+ g(n)= 234.0 h(n)=152.0
+ g(n)= 235.0 h(n)=151.0
+ g(n)= 236.0 h(n)=150.0
+ g(n)= 237.0 h(n)=149.0
+ g(n)= 238.0 h(n)=148.0
+ g(n)= 239.0 h(n)=147.0
+ g(n)= 240.0 h(n)=146.0
+ g(n)= 241.0 h(n)=145.0
+ g(n)= 242.0 h(n)=144.0
+ g(n)= 243.0 h(n)=143.0
+ g(n)= 244.0 h(n)=142.0
+ g(n)= 245.0 h(n)=141.0
+ g(n)= 246.0 h(n)=140.0
+ g(n)= 247.0 h(n)=139.0
+ g(n)= 248.0 h(n)=138.0
+ g(n)= 249.0 h(n)=137.0
+ g(n)= 250.0 h(n)=136.0
+ g(n)= 251.0 h(n)=135.0
+ g(n)= 252.0 h(n)=134.0
+ g(n)= 253.0 h(n)=133.0
+ g(n)= 254.0 h(n)=132.0
+ g(n)= 255.0 h(n)=131.0
+ g(n)= 256.0 h(n)=130.0
+ g(n)= 257.0 h(n)=129.0
+ g(n)= 258.0 h(n)=128.0
+ g(n)= 259.0 h(n)=127.0
+ g(n)= 260.0 h(n)=126.0
+ g(n)= 261.0 h(n)=125.0
+ g(n)= 262.0 h(n)=124.0
+ g(n)= 263.0 h(n)=123.0
+ g(n)= 264.0 h(n)=122.0
+ g(n)= 265.0 h(n)=121.0
+ g(n)= 266.0 h(n)=119.0
+ g(n)= 267.0 h(n)=118.0
+ g(n)= 268.0 h(n)=117.0
+ g(n)= 269.0 h(n)=115.0
+ g(n)= 270.0 h(n)=114.0
+ g(n)= 271.0 h(n)=113.0
+ g(n)= 272.0 h(n)=111.0
+ g(n)= 273.0 h(n)=110.0
+ g(n)= 274.0 h(n)=109.0
+ g(n)= 275.0 h(n)=107.0
+ g(n)= 276.0 h(n)=106.0
+ g(n)= 277.0 h(n)=105.0
+ g(n)= 278.0 h(n)=103.0
+ g(n)= 279.0 h(n)=102.0
+ g(n)= 280.0 h(n)=101.0
+ g(n)= 281.0 h(n)=100.0
+ g(n)= 282.0 h(n)=99.0
+ g(n)= 283.0 h(n)=98.0
+ g(n)= 284.0 h(n)=97.0
+ g(n)= 285.0 h(n)=96.0
+ g(n)= 286.0 h(n)=95.0
+ g(n)= 287.0 h(n)=94.0
+ g(n)= 288.0 h(n)=93.0
+ g(n)= 289.0 h(n)=92.0
+ g(n)= 290.0 h(n)=91.0
+ g(n)= 291.0 h(n)=90.0
+ g(n)= 292.0 h(n)=89.0
+ g(n)= 293.0 h(n)=88.0
+ g(n)= 294.0 h(n)=87.0
+ g(n)= 295.0 h(n)=86.0
+ g(n)= 296.0 h(n)=85.0
+ g(n)= 297.0 h(n)=84.0
+ g(n)= 298.0 h(n)=83.0
+ g(n)= 299.0 h(n)=82.0
+ g(n)= 300.0 h(n)=81.0
+ g(n)= 301.0 h(n)=80.0
+ g(n)= 302.0 h(n)=79.0
+ g(n)= 303.0 h(n)=78.0
+ g(n)= 304.0 h(n)=77.0
+ g(n)= 305.0 h(n)=75.0
+ g(n)= 306.0 h(n)=74.0
+ g(n)= 307.0 h(n)=72.0
+ g(n)= 308.0 h(n)=71.0
+ g(n)= 309.0 h(n)=70.0
+ g(n)= 310.0 h(n)=69.0
+ g(n)= 311.0 h(n)=68.0
+ g(n)= 312.0 h(n)=67.0
+ g(n)= 313.0 h(n)=66.0
+ g(n)= 314.0 h(n)=65.0
+ g(n)= 315.0 h(n)=64.0
+-------------Time: 20s ; Expanded Nodes: 316 (Avg-Speed 15.0 n/s); Evaluated States: 35868
+ g(n)= 316.0 h(n)=63.0
+ g(n)= 317.0 h(n)=62.0
+ g(n)= 318.0 h(n)=60.0
+ g(n)= 319.0 h(n)=59.0
+ g(n)= 320.0 h(n)=58.0
+ g(n)= 321.0 h(n)=57.0
+ g(n)= 322.0 h(n)=56.0
+ g(n)= 323.0 h(n)=54.0
+ g(n)= 324.0 h(n)=53.0
+ g(n)= 325.0 h(n)=52.0
+ g(n)= 326.0 h(n)=51.0
+ g(n)= 327.0 h(n)=50.0
+ g(n)= 328.0 h(n)=48.0
+ g(n)= 329.0 h(n)=47.0
+ g(n)= 330.0 h(n)=46.0
+ g(n)= 331.0 h(n)=45.0
+ g(n)= 332.0 h(n)=44.0
+ g(n)= 333.0 h(n)=42.0
+ g(n)= 334.0 h(n)=41.0
+ g(n)= 335.0 h(n)=40.0
+ g(n)= 336.0 h(n)=39.0
+ g(n)= 337.0 h(n)=38.0
+ g(n)= 338.0 h(n)=37.0
+ g(n)= 339.0 h(n)=36.0
+ g(n)= 340.0 h(n)=35.0
+ g(n)= 342.0 h(n)=33.0
+ g(n)= 343.0 h(n)=30.0
+ g(n)= 345.0 h(n)=28.0
+ g(n)= 346.0 h(n)=25.0
+ g(n)= 348.0 h(n)=23.0
+ g(n)= 349.0 h(n)=20.0
+ g(n)= 351.0 h(n)=18.0
+ g(n)= 352.0 h(n)=15.0
+ g(n)= 354.0 h(n)=13.0
+ g(n)= 355.0 h(n)=10.0
+ g(n)= 357.0 h(n)=8.0
+ g(n)= 358.0 h(n)=5.0
+ g(n)= 360.0 h(n)=3.0
+ g(n)= 361.0 h(n)=0.0
+Problem Solved
+
+Found Plan:
+0.0: (move_block_down b28)
+1.0: (move_block_left b28)
+2.0: (move_block_left b28)
+3.0: (move_block_left b28)
+4.0: (move_block_left b28)
+5.0: (move_block_left b28)
+6.0: (move_block_left b28)
+7.0: (move_block_left b28)
+8.0: (move_block_left b28)
+9.0: (move_block_down b13)
+10.0: (move_block_down b13)
+11.0: (move_block_down b13)
+12.0: (move_block_down b13)
+13.0: (move_block_down b13)
+14.0: (move_block_down b13)
+15.0: (move_block_down b13)
+16.0: (move_block_down b13)
+17.0: (move_block_down b13)
+18.0: (move_block_down b29)
+19.0: (move_block_down b29)
+20.0: (move_block_down b29)
+21.0: (move_block_down b29)
+22.0: (move_block_left b5)
+23.0: (move_block_left b5)
+24.0: (move_block_left b8)
+25.0: (move_block_left b8)
+26.0: (move_block_left b8)
+27.0: (move_block_left b8)
+28.0: (move_block_left b8)
+29.0: (move_block_left b8)
+30.0: (move_block_left b8)
+31.0: (move_block_left b8)
+32.0: (move_block_up b3)
+33.0: (move_block_up b23)
+34.0: (move_block_up b23)
+35.0: (move_block_up b23)
+36.0: (move_block_up b23)
+37.0: (move_block_up b18)
+38.0: (move_block_down b29)
+39.0: (move_block_down b29)
+40.0: (move_block_down b29)
+41.0: (move_block_down b14)
+42.0: (move_block_down b2)
+43.0: (move_block_down b14)
+44.0: (move_block_down b2)
+45.0: (move_block_up b26)
+46.0: (move_block_up b26)
+47.0: (move_block_up b26)
+48.0: (move_block_up b26)
+49.0: (move_block_up b26)
+50.0: (move_block_up b26)
+51.0: (move_block_up b15)
+52.0: (move_block_up b15)
+53.0: (move_block_up b16)
+54.0: (move_block_up b16)
+55.0: (move_block_up b16)
+56.0: (move_block_up b16)
+57.0: (move_block_up b16)
+58.0: (move_block_up b12)
+59.0: (move_block_up b3)
+60.0: (move_block_up b12)
+61.0: (move_block_up b12)
+62.0: (move_block_up b12)
+63.0: (move_block_up b12)
+64.0: (move_block_up b12)
+65.0: (move_block_up b27)
+66.0: (move_block_up b26)
+67.0: (move_block_up b26)
+68.0: (move_block_up b26)
+69.0: (move_block_up b26)
+70.0: (move_block_down b28)
+71.0: (move_block_down b20)
+72.0: (move_block_down b28)
+73.0: (move_block_down b20)
+74.0: (move_block_down b1)
+75.0: (move_block_down b28)
+76.0: (move_block_down b20)
+77.0: (move_block_down b1)
+78.0: (move_block_down b28)
+79.0: (move_block_down b20)
+80.0: (move_block_down b1)
+81.0: (move_block_down b28)
+82.0: (move_block_down b28)
+83.0: (move_block_down b28)
+84.0: (move_block_down b28)
+85.0: (move_block_down b28)
+86.0: (move_block_down b28)
+87.0: (move_block_down b28)
+88.0: (move_block_down b29)
+89.0: (move_block_down b29)
+90.0: (move_block_down b29)
+91.0: (move_block_down b29)
+92.0: (move_block_down b29)
+93.0: (move_block_down b29)
+94.0: (move_block_down b29)
+95.0: (move_block_down b29)
+96.0: (move_block_right b26)
+97.0: (move_block_right b26)
+98.0: (move_block_right b26)
+99.0: (move_block_right b26)
+100.0: (move_block_right b26)
+101.0: (move_block_right b26)
+102.0: (move_block_right b26)
+103.0: (move_block_right b26)
+104.0: (move_block_right b26)
+105.0: (move_block_right b26)
+106.0: (move_block_right b26)
+107.0: (move_block_right b29)
+108.0: (move_block_right b29)
+109.0: (move_block_right b29)
+110.0: (move_block_right b29)
+111.0: (move_block_right b29)
+112.0: (move_block_right b29)
+113.0: (move_block_right b29)
+114.0: (move_block_right b29)
+115.0: (move_block_right b29)
+116.0: (move_block_right b22)
+117.0: (move_block_right b22)
+118.0: (move_block_right b22)
+119.0: (move_block_right b22)
+120.0: (move_block_right b22)
+121.0: (move_block_right b22)
+122.0: (move_block_right b22)
+123.0: (move_block_right b22)
+124.0: (move_block_right b22)
+125.0: (move_block_right b22)
+126.0: (move_block_right b22)
+127.0: (move_block_right b22)
+128.0: (move_block_right b22)
+129.0: (move_block_right b25)
+130.0: (move_block_right b25)
+131.0: (move_block_right b25)
+132.0: (move_block_right b25)
+133.0: (move_block_right b18)
+134.0: (move_block_right b18)
+135.0: (move_block_right b18)
+136.0: (move_block_right b18)
+137.0: (move_block_right b18)
+138.0: (move_block_right b18)
+139.0: (move_block_right b19)
+140.0: (move_block_right b20)
+141.0: (move_block_right b20)
+142.0: (move_block_right b20)
+143.0: (move_block_right b20)
+144.0: (move_block_right b20)
+145.0: (move_block_right b21)
+146.0: (move_block_right b21)
+147.0: (move_block_right b21)
+148.0: (move_block_right b21)
+149.0: (move_block_right b15)
+150.0: (move_block_right b15)
+151.0: (move_block_right b15)
+152.0: (move_block_right b15)
+153.0: (move_block_right b15)
+154.0: (move_block_right b15)
+155.0: (move_block_right b15)
+156.0: (move_block_right b16)
+157.0: (move_block_right b16)
+158.0: (move_block_right b16)
+159.0: (move_block_right b16)
+160.0: (move_block_right b16)
+161.0: (move_block_right b16)
+162.0: (move_block_right b16)
+163.0: (move_block_right b16)
+164.0: (move_block_right b16)
+165.0: (move_block_right b16)
+166.0: (move_block_right b17)
+167.0: (move_block_right b17)
+168.0: (move_block_right b17)
+169.0: (move_block_right b17)
+170.0: (move_block_right b17)
+171.0: (move_block_right b10)
+172.0: (move_block_right b10)
+173.0: (move_block_right b10)
+174.0: (move_block_right b10)
+175.0: (move_block_right b10)
+176.0: (move_block_right b10)
+177.0: (move_block_right b11)
+178.0: (move_block_right b11)
+179.0: (move_block_right b11)
+180.0: (move_block_right b11)
+181.0: (move_block_right b12)
+182.0: (move_block_right b12)
+183.0: (move_block_right b12)
+184.0: (move_block_right b12)
+185.0: (move_block_right b12)
+186.0: (move_block_right b12)
+187.0: (move_block_right b12)
+188.0: (move_block_right b12)
+189.0: (move_block_right b12)
+190.0: (move_block_right b12)
+191.0: (move_block_right b12)
+192.0: (move_block_right b12)
+193.0: (move_block_right b12)
+194.0: (move_block_right b12)
+195.0: (move_block_right b13)
+196.0: (move_block_right b13)
+197.0: (move_block_right b13)
+198.0: (move_block_right b13)
+199.0: (move_block_right b13)
+200.0: (move_block_right b13)
+201.0: (move_block_right b6)
+202.0: (move_block_right b6)
+203.0: (move_block_right b7)
+204.0: (move_block_right b7)
+205.0: (move_block_right b9)
+206.0: (move_block_right b9)
+207.0: (move_block_right b9)
+208.0: (move_block_right b9)
+209.0: (move_block_right b9)
+210.0: (move_block_right b9)
+211.0: (move_block_right b9)
+212.0: (move_block_right b9)
+213.0: (move_block_right b9)
+214.0: (move_block_right b9)
+215.0: (move_block_right b9)
+216.0: (move_block_right b2)
+217.0: (move_block_right b2)
+218.0: (move_block_right b2)
+219.0: (move_block_right b2)
+220.0: (move_block_right b2)
+221.0: (move_block_right b2)
+222.0: (move_block_right b2)
+223.0: (move_block_right b2)
+224.0: (move_block_right b2)
+225.0: (move_block_right b2)
+226.0: (move_block_right b2)
+227.0: (move_block_right b2)
+228.0: (move_block_right b2)
+229.0: (move_block_right b2)
+230.0: (move_block_right b2)
+231.0: (move_block_right b2)
+232.0: (move_block_right b2)
+233.0: (move_block_right b2)
+234.0: (move_block_right b2)
+235.0: (move_block_right b3)
+236.0: (move_block_right b3)
+237.0: (move_block_right b3)
+238.0: (move_block_right b3)
+239.0: (move_block_right b3)
+240.0: (move_block_right b3)
+241.0: (move_block_right b3)
+242.0: (move_block_right b3)
+243.0: (move_block_right b3)
+244.0: (move_block_right b3)
+245.0: (move_block_right b3)
+246.0: (move_block_right b3)
+247.0: (move_block_right b4)
+248.0: (move_block_right b4)
+249.0: (move_block_right b4)
+250.0: (move_block_right b4)
+251.0: (move_block_right b4)
+252.0: (move_block_right b4)
+253.0: (move_block_right b4)
+254.0: (move_block_right b4)
+255.0: (move_block_right b4)
+256.0: (move_block_right b4)
+257.0: (move_block_right b4)
+258.0: (move_block_right b4)
+259.0: (move_block_right b4)
+260.0: (move_block_right b4)
+261.0: (move_block_down b5)
+262.0: (move_block_down b5)
+263.0: (move_block_down b5)
+264.0: (move_block_up b3)
+265.0: (move_block_up b4)
+266.0: (move_block_up b7)
+267.0: (move_block_up b3)
+268.0: (move_block_up b4)
+269.0: (move_block_up b7)
+270.0: (move_block_up b3)
+271.0: (move_block_up b4)
+272.0: (move_block_up b7)
+273.0: (move_block_up b3)
+274.0: (move_block_up b4)
+275.0: (move_block_up b7)
+276.0: (move_block_up b3)
+277.0: (move_block_up b4)
+278.0: (move_block_up b7)
+279.0: (move_block_down b11)
+280.0: (move_block_down b6)
+281.0: (move_block_down b5)
+282.0: (move_block_down b11)
+283.0: (move_block_down b6)
+284.0: (move_block_down b5)
+285.0: (move_block_down b11)
+286.0: (move_block_down b6)
+287.0: (move_block_down b5)
+288.0: (move_block_down b11)
+289.0: (move_block_down b6)
+290.0: (move_block_down b5)
+291.0: (move_block_down b11)
+292.0: (move_block_down b6)
+293.0: (move_block_down b5)
+294.0: (move_block_down b11)
+295.0: (move_block_down b6)
+296.0: (move_block_down b5)
+297.0: (move_block_down b11)
+298.0: (move_block_down b6)
+299.0: (move_block_down b5)
+300.0: (move_block_down b11)
+301.0: (move_block_down b6)
+302.0: (move_block_down b5)
+303.0: (move_block_up b16)
+304.0: (move_block_up b21)
+305.0: (move_block_up b16)
+306.0: (move_block_up b21)
+307.0: (move_block_up b16)
+308.0: (move_block_up b16)
+309.0: (move_block_up b16)
+310.0: (move_block_up b12)
+311.0: (move_block_up b12)
+312.0: (move_block_up b12)
+313.0: (move_block_up b12)
+314.0: (move_block_up b10)
+315.0: (move_block_up b0)
+316.0: (move_block_up b3)
+317.0: (move_block_up b4)
+318.0: (move_block_up b7)
+319.0: (move_block_up b10)
+320.0: (move_block_up b0)
+321.0: (move_block_up b3)
+322.0: (move_block_up b4)
+323.0: (move_block_up b7)
+324.0: (move_block_up b10)
+325.0: (move_block_up b0)
+326.0: (move_block_up b3)
+327.0: (move_block_up b4)
+328.0: (move_block_up b7)
+329.0: (move_block_up b10)
+330.0: (move_block_up b0)
+331.0: (move_block_up b3)
+332.0: (move_block_up b4)
+333.0: (move_block_up b7)
+334.0: (move_block_up b21)
+335.0: (move_block_up b8)
+336.0: (move_block_up b21)
+337.0: (move_block_up b8)
+338.0: (move_block_up b21)
+339.0: (move_block_up b8)
+340.0: (move_block_down b20)
+341.0: (move_block_down b24)
+342.0: (move_block_down b1)
+343.0: (move_block_down b20)
+344.0: (move_block_down b24)
+345.0: (move_block_down b1)
+346.0: (move_block_down b20)
+347.0: (move_block_down b24)
+348.0: (move_block_down b1)
+349.0: (move_block_down b20)
+350.0: (move_block_down b24)
+351.0: (move_block_down b1)
+352.0: (move_block_down b20)
+353.0: (move_block_down b24)
+354.0: (move_block_down b1)
+355.0: (move_block_down b20)
+356.0: (move_block_down b24)
+357.0: (move_block_down b1)
+358.0: (move_block_down b20)
+359.0: (move_block_down b24)
+360.0: (move_block_down b1)
+
+Plan-Length:361
+Metric (Search):361.0
+Planning Time (msec): 25116
+Heuristic Time (msec): 24765
+Search Time (msec): 24937
+Expanded Nodes:376
+States Evaluated:42219
+Fixed constraint violations during search (zero-crossing):0
+Number of Dead-Ends detected:0
+Number of Duplicates detected:556

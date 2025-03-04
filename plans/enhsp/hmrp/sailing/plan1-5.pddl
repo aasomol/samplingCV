@@ -1,0 +1,367 @@
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 14
+Aibr Preprocessing
+|F|:5
+|X|:2
+|A|:12
+|P|:0
+|E|:0
+H1 Setup Time (msec): 2
+Setting horizon to:NaN
+Running Greedy Best First Search
+h(n = s_0)=139.0
+ g(n)= 2.0 h(n)=138.0
+ g(n)= 7.0 h(n)=137.0
+ g(n)= 11.0 h(n)=136.0
+ g(n)= 16.0 h(n)=135.0
+ g(n)= 19.0 h(n)=134.0
+ g(n)= 23.0 h(n)=133.0
+ g(n)= 27.0 h(n)=132.0
+ g(n)= 31.0 h(n)=131.0
+ g(n)= 35.0 h(n)=130.0
+ g(n)= 39.0 h(n)=129.0
+ g(n)= 43.0 h(n)=128.0
+ g(n)= 47.0 h(n)=127.0
+ g(n)= 52.0 h(n)=126.0
+ g(n)= 56.0 h(n)=125.0
+ g(n)= 60.0 h(n)=124.0
+ g(n)= 64.0 h(n)=123.0
+ g(n)= 68.0 h(n)=122.0
+ g(n)= 72.0 h(n)=121.0
+ g(n)= 76.0 h(n)=120.0
+ g(n)= 79.0 h(n)=119.0
+ g(n)= 81.0 h(n)=118.0
+ g(n)= 83.0 h(n)=117.0
+ g(n)= 84.0 h(n)=116.0
+ g(n)= 85.0 h(n)=115.0
+ g(n)= 86.0 h(n)=114.0
+ g(n)= 87.0 h(n)=113.0
+ g(n)= 88.0 h(n)=112.0
+ g(n)= 89.0 h(n)=111.0
+ g(n)= 90.0 h(n)=110.0
+ g(n)= 91.0 h(n)=109.0
+ g(n)= 92.0 h(n)=108.0
+ g(n)= 93.0 h(n)=107.0
+ g(n)= 94.0 h(n)=106.0
+ g(n)= 95.0 h(n)=105.0
+ g(n)= 96.0 h(n)=104.0
+ g(n)= 97.0 h(n)=103.0
+ g(n)= 98.0 h(n)=102.0
+ g(n)= 99.0 h(n)=101.0
+ g(n)= 100.0 h(n)=100.0
+ g(n)= 101.0 h(n)=99.0
+ g(n)= 102.0 h(n)=98.0
+ g(n)= 103.0 h(n)=97.0
+ g(n)= 104.0 h(n)=96.0
+ g(n)= 105.0 h(n)=95.0
+ g(n)= 106.0 h(n)=94.0
+ g(n)= 107.0 h(n)=93.0
+ g(n)= 108.0 h(n)=92.0
+ g(n)= 109.0 h(n)=91.0
+ g(n)= 110.0 h(n)=90.0
+ g(n)= 111.0 h(n)=89.0
+ g(n)= 112.0 h(n)=88.0
+ g(n)= 113.0 h(n)=87.0
+ g(n)= 114.0 h(n)=86.0
+ g(n)= 115.0 h(n)=85.0
+ g(n)= 116.0 h(n)=84.0
+ g(n)= 117.0 h(n)=83.0
+ g(n)= 118.0 h(n)=82.0
+ g(n)= 119.0 h(n)=81.0
+ g(n)= 120.0 h(n)=80.0
+ g(n)= 121.0 h(n)=79.0
+ g(n)= 122.0 h(n)=78.0
+ g(n)= 123.0 h(n)=77.0
+ g(n)= 124.0 h(n)=76.0
+ g(n)= 125.0 h(n)=75.0
+ g(n)= 126.0 h(n)=74.0
+ g(n)= 127.0 h(n)=73.0
+ g(n)= 128.0 h(n)=72.0
+ g(n)= 129.0 h(n)=71.0
+ g(n)= 130.0 h(n)=70.0
+ g(n)= 131.0 h(n)=69.0
+ g(n)= 132.0 h(n)=68.0
+ g(n)= 133.0 h(n)=67.0
+ g(n)= 134.0 h(n)=66.0
+ g(n)= 135.0 h(n)=65.0
+ g(n)= 136.0 h(n)=64.0
+ g(n)= 137.0 h(n)=63.0
+ g(n)= 138.0 h(n)=62.0
+ g(n)= 139.0 h(n)=61.0
+ g(n)= 140.0 h(n)=60.0
+ g(n)= 141.0 h(n)=59.0
+ g(n)= 142.0 h(n)=58.0
+ g(n)= 143.0 h(n)=57.0
+ g(n)= 144.0 h(n)=56.0
+ g(n)= 145.0 h(n)=55.0
+ g(n)= 146.0 h(n)=54.0
+ g(n)= 147.0 h(n)=53.0
+ g(n)= 148.0 h(n)=52.0
+ g(n)= 149.0 h(n)=51.0
+ g(n)= 150.0 h(n)=50.0
+ g(n)= 151.0 h(n)=49.0
+ g(n)= 152.0 h(n)=48.0
+ g(n)= 153.0 h(n)=47.0
+ g(n)= 154.0 h(n)=46.0
+ g(n)= 155.0 h(n)=45.0
+ g(n)= 156.0 h(n)=44.0
+ g(n)= 157.0 h(n)=43.0
+ g(n)= 158.0 h(n)=42.0
+ g(n)= 159.0 h(n)=41.0
+ g(n)= 160.0 h(n)=40.0
+ g(n)= 161.0 h(n)=39.0
+ g(n)= 162.0 h(n)=38.0
+ g(n)= 163.0 h(n)=37.0
+ g(n)= 164.0 h(n)=36.0
+ g(n)= 165.0 h(n)=35.0
+ g(n)= 166.0 h(n)=34.0
+ g(n)= 167.0 h(n)=33.0
+ g(n)= 168.0 h(n)=32.0
+ g(n)= 169.0 h(n)=31.0
+ g(n)= 170.0 h(n)=30.0
+ g(n)= 171.0 h(n)=29.0
+ g(n)= 172.0 h(n)=28.0
+ g(n)= 173.0 h(n)=27.0
+ g(n)= 174.0 h(n)=26.0
+ g(n)= 175.0 h(n)=25.0
+ g(n)= 176.0 h(n)=24.0
+ g(n)= 177.0 h(n)=23.0
+ g(n)= 178.0 h(n)=22.0
+ g(n)= 179.0 h(n)=21.0
+ g(n)= 180.0 h(n)=20.0
+ g(n)= 181.0 h(n)=19.0
+ g(n)= 182.0 h(n)=18.0
+ g(n)= 183.0 h(n)=17.0
+ g(n)= 184.0 h(n)=16.0
+ g(n)= 185.0 h(n)=15.0
+ g(n)= 186.0 h(n)=14.0
+ g(n)= 187.0 h(n)=13.0
+ g(n)= 188.0 h(n)=12.0
+ g(n)= 189.0 h(n)=11.0
+ g(n)= 190.0 h(n)=10.0
+ g(n)= 191.0 h(n)=9.0
+ g(n)= 192.0 h(n)=8.0
+ g(n)= 193.0 h(n)=7.0
+ g(n)= 194.0 h(n)=6.0
+ g(n)= 195.0 h(n)=5.0
+ g(n)= 196.0 h(n)=4.0
+ g(n)= 197.0 h(n)=3.0
+ g(n)= 198.0 h(n)=2.0
+ g(n)= 199.0 h(n)=1.0
+ g(n)= 200.0 h(n)=0.0
+Problem Solved
+
+Found Plan:
+0.0: (go_north_west boat0)
+1.0: (go_north_west boat0)
+2.0: (go_north_west boat0)
+3.0: (go_north_east boat0)
+4.0: (go_north_east boat0)
+5.0: (go_est boat0)
+6.0: (go_north_east boat0)
+7.0: (go_north_west boat0)
+8.0: (go_north_west boat0)
+9.0: (go_north_west boat0)
+10.0: (go_north_west boat0)
+11.0: (go_north_west boat0)
+12.0: (go_north_west boat0)
+13.0: (go_north_east boat0)
+14.0: (go_north_west boat0)
+15.0: (go_north_west boat0)
+16.0: (go_north_east boat0)
+17.0: (go_north_east boat0)
+18.0: (go_north_east boat0)
+19.0: (go_north_west boat0)
+20.0: (go_north_west boat0)
+21.0: (go_north_west boat0)
+22.0: (go_north_west boat0)
+23.0: (go_north_west boat0)
+24.0: (go_north_west boat0)
+25.0: (go_north_west boat0)
+26.0: (go_north_west boat0)
+27.0: (go_north_west boat0)
+28.0: (go_north_west boat0)
+29.0: (go_north_west boat0)
+30.0: (go_north_west boat0)
+31.0: (go_north_west boat0)
+32.0: (go_north_west boat0)
+33.0: (go_north_west boat0)
+34.0: (go_north_west boat0)
+35.0: (go_north_west boat0)
+36.0: (go_north_west boat0)
+37.0: (go_north_west boat0)
+38.0: (go_north_west boat0)
+39.0: (go_north_west boat0)
+40.0: (go_north_west boat0)
+41.0: (go_north_west boat0)
+42.0: (go_north_west boat0)
+43.0: (go_north_west boat0)
+44.0: (go_north_west boat0)
+45.0: (go_north_west boat0)
+46.0: (go_north_west boat0)
+47.0: (go_north_west boat0)
+48.0: (go_north_east boat0)
+49.0: (go_north_east boat0)
+50.0: (go_north_east boat0)
+51.0: (go_est boat0)
+52.0: (go_north_east boat0)
+53.0: (go_north_east boat0)
+54.0: (go_north_east boat0)
+55.0: (go_north_east boat0)
+56.0: (go_north_east boat0)
+57.0: (go_north_east boat0)
+58.0: (go_north_east boat0)
+59.0: (go_north_east boat0)
+60.0: (go_north_east boat0)
+61.0: (go_north_east boat0)
+62.0: (go_north_east boat0)
+63.0: (go_north_east boat0)
+64.0: (go_north_east boat0)
+65.0: (go_north_east boat0)
+66.0: (go_north_east boat0)
+67.0: (go_north_east boat0)
+68.0: (go_north_east boat0)
+69.0: (go_north_east boat0)
+70.0: (go_north_east boat0)
+71.0: (go_north_east boat0)
+72.0: (go_north_east boat0)
+73.0: (go_north_east boat0)
+74.0: (go_north_east boat0)
+75.0: (go_north_east boat0)
+76.0: (go_north_east boat0)
+77.0: (go_north_east boat0)
+78.0: (save_person boat0 person4)
+79.0: (go_north_east boat0)
+80.0: (go_north_east boat0)
+81.0: (go_north_west boat0)
+82.0: (save_person boat0 person3)
+83.0: (go_south_east boat0)
+84.0: (go_south_east boat0)
+85.0: (go_south_east boat0)
+86.0: (go_south_east boat0)
+87.0: (go_south_east boat0)
+88.0: (go_south_east boat0)
+89.0: (go_south_east boat0)
+90.0: (go_south_east boat0)
+91.0: (go_south_east boat0)
+92.0: (go_south_west boat0)
+93.0: (go_south_west boat0)
+94.0: (go_south_west boat0)
+95.0: (go_south_west boat0)
+96.0: (go_south_west boat0)
+97.0: (go_south_west boat0)
+98.0: (go_south_west boat0)
+99.0: (go_south_west boat0)
+100.0: (go_south_west boat0)
+101.0: (save_person boat0 person2)
+102.0: (go_south_east boat0)
+103.0: (go_south_east boat0)
+104.0: (go_south_east boat0)
+105.0: (go_south_east boat0)
+106.0: (go_south_east boat0)
+107.0: (go_south_east boat0)
+108.0: (go_south_east boat0)
+109.0: (go_south_east boat0)
+110.0: (go_south_east boat0)
+111.0: (go_south_east boat0)
+112.0: (go_south_east boat0)
+113.0: (go_south_east boat0)
+114.0: (go_south_east boat0)
+115.0: (go_south_east boat0)
+116.0: (go_south_east boat0)
+117.0: (go_south_east boat0)
+118.0: (go_south_east boat0)
+119.0: (go_south_east boat0)
+120.0: (go_south_east boat0)
+121.0: (go_south_east boat0)
+122.0: (go_south_east boat0)
+123.0: (go_south_east boat0)
+124.0: (go_south_east boat0)
+125.0: (go_south_east boat0)
+126.0: (go_south_east boat0)
+127.0: (go_south_east boat0)
+128.0: (go_south_east boat0)
+129.0: (go_south_east boat0)
+130.0: (go_south_east boat0)
+131.0: (go_south_east boat0)
+132.0: (go_south_east boat0)
+133.0: (go_south_east boat0)
+134.0: (go_south_east boat0)
+135.0: (go_south_east boat0)
+136.0: (go_south_east boat0)
+137.0: (go_south_east boat0)
+138.0: (go_south_east boat0)
+139.0: (go_south_east boat0)
+140.0: (go_south_east boat0)
+141.0: (go_south_east boat0)
+142.0: (go_south_east boat0)
+143.0: (go_south_east boat0)
+144.0: (go_south_east boat0)
+145.0: (go_south_east boat0)
+146.0: (go_south_west boat0)
+147.0: (go_south_west boat0)
+148.0: (go_south_west boat0)
+149.0: (go_south_west boat0)
+150.0: (go_south_west boat0)
+151.0: (go_south_west boat0)
+152.0: (go_south_west boat0)
+153.0: (go_south_west boat0)
+154.0: (go_south_west boat0)
+155.0: (go_south_west boat0)
+156.0: (go_south_west boat0)
+157.0: (go_south_west boat0)
+158.0: (go_south_west boat0)
+159.0: (go_south_west boat0)
+160.0: (go_south_west boat0)
+161.0: (go_south_west boat0)
+162.0: (go_south_west boat0)
+163.0: (go_south_west boat0)
+164.0: (go_south_west boat0)
+165.0: (go_south_west boat0)
+166.0: (go_south_west boat0)
+167.0: (go_south_west boat0)
+168.0: (go_south_west boat0)
+169.0: (go_south_west boat0)
+170.0: (go_south_west boat0)
+171.0: (go_south_west boat0)
+172.0: (go_south_west boat0)
+173.0: (go_south_west boat0)
+174.0: (go_south_west boat0)
+175.0: (go_south_west boat0)
+176.0: (go_south_west boat0)
+177.0: (go_south_west boat0)
+178.0: (go_south_west boat0)
+179.0: (go_south_west boat0)
+180.0: (go_south_west boat0)
+181.0: (go_south_west boat0)
+182.0: (go_south_west boat0)
+183.0: (go_south_west boat0)
+184.0: (go_south_west boat0)
+185.0: (go_south_west boat0)
+186.0: (go_south_west boat0)
+187.0: (go_south_west boat0)
+188.0: (go_south_west boat0)
+189.0: (go_south_west boat0)
+190.0: (save_person boat0 person1)
+191.0: (go_south_east boat0)
+192.0: (go_south_east boat0)
+193.0: (go_south_east boat0)
+194.0: (go_south_east boat0)
+195.0: (go_south_west boat0)
+196.0: (go_south_west boat0)
+197.0: (go_south_west boat0)
+198.0: (go_south_west boat0)
+199.0: (save_person boat0 person0)
+
+Plan-Length:200
+Metric (Search):200.0
+Planning Time (msec): 150
+Heuristic Time (msec): 25
+Search Time (msec): 39
+Expanded Nodes:333
+States Evaluated:1907
+Fixed constraint violations during search (zero-crossing):0
+Number of Dead-Ends detected:0
+Number of Duplicates detected:430

@@ -1,0 +1,37 @@
+seed: 9
+alpha: 0.01
+iterations: 211
+time: 0.024500370025634766
+actions: 31
+-------------
+(goto location7 location4)
+(goto location4 location8)
+(goto location8 location5)
+(goto location5 location3)
+(goto location3 location9)
+(withdraw location9 currency0 164.43943786621094)
+(save_for_later currency0)
+(withdraw location9 currency1 233.92112731933594)
+(goto location9 location6)
+(goto location6 location1)
+(goto location1 location3)
+(goto location3 location5)
+(goto location5 location7)
+(buy_with_cash item4 location7 currency0)
+(goto location7 location9)
+(goto location9 location8)
+(save_for_later currency1)
+(goto location8 location2)
+(goto location2 location4)
+(buy_with_cash item3 location4 currency1)
+(goto location4 location5)
+(goto location5 location8)
+(goto location8 location2)
+(goto location2 location3)
+(buy_with_cash item1 location3 currency0)
+(goto location3 location5)
+(buy_with_cash item2 location5 currency1)
+(goto location5 location8)
+(goto location8 location3)
+(goto location3 location7)
+(buy_with_cash item0 location7 currency0)

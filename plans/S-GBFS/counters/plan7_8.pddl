@@ -1,0 +1,37 @@
+seed: 13
+alpha: 0.01
+iterations: 301
+time: 0.027072429656982422
+actions: 31
+-------------
+(increase c3 9)
+(decrease c0 7)
+(increase c1 3)
+(decrease c6 1)
+(decrease c3 4)
+(decrease c1 4)
+(decrease c2 6)
+(increase c2 1)
+(decrease c0 1)
+(increase c2 1)
+(increase c5 1)
+(increase c1 3)
+(decrease c4 1)
+(increase c0 1)
+(decrease c1 3)
+(decrease c3 2)
+(increase c3 1)
+(decrease c2 3)
+(increase c4 1)
+(decrease c4 2)
+(decrease c0 2)
+(increase c2 4)
+(decrease c5 2)
+(decrease c6 1)
+(increase c1 4)
+(increase c6 3)
+(decrease c1 5)
+(decrease c2 3)
+(increase c1 3)
+(decrease c1 1)
+(increase c5 1)

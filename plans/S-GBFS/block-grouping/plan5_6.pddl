@@ -1,0 +1,38 @@
+seed: 11
+alpha: 0.01
+iterations: 142
+time: 0.012978792190551758
+actions: 32
+-------------
+(move-right b3 7)
+(move-right b3 3)
+(move-left b0 11)
+(move-down b4 2)
+(move-down b0 5)
+(move-up b0 9)
+(move-left b1 7)
+(move-left b1 3)
+(move-left b4 3)
+(move-right b2 18)
+(move-left b0 8)
+(move-down b1 8)
+(move-left b3 10)
+(move-up b0 6)
+(move-up b2 1)
+(move-right b1 15)
+(move-down b0 16)
+(move-down b2 4)
+(move-up b0 6)
+(move-up b0 4)
+(move-left b1 13)
+(move-up b3 2)
+(move-left b3 5)
+(move-up b2 6)
+(move-left b2 7)
+(move-down b2 6)
+(move-down b0 11)
+(move-right b1 12)
+(move-right b0 2)
+(move-left b2 7)
+(move-left b1 1)
+(move-down b3 2)
